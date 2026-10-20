@@ -1,0 +1,16 @@
+target_gene,TF_0,TF_1,TF_2,TF_3,TF_4,TF_5,TF_6,TF_7,TF_8,TF_9
+TargetGene_0,0,1,1,1,0,0,0,0,0,1
+TargetGene_1,0,0,0,0,0,1,1,0,0,0
+TargetGene_2,0,0,0,1,0,0,1,1,0,0
+TargetGene_3,0,0,1,0,0,0,1,0,1,1
+TargetGene_4,0,1,0,0,0,0,1,0,0,1
+TargetGene_5,0,1,0,0,1,0,1,0,1,0
+TargetGene_6,0,1,0,0,0,0,0,0,1,0
+TargetGene_7,0,0,1,0,0,1,0,0,0,0
+TargetGene_8,1,1,0,0,0,0,0,1,0,0
+TargetGene_9,0,1,0,0,0,0,0,1,0,0
+TargetGene_10,0,0,1,0,0,0,0,1,1,1
+TargetGene_11,1,0,0,0,0,1,0,1,1,0
+TargetGene_12,1,0,0,0,0,1,0,0,0,0
+TargetGene_13,0,0,0,0,0,0,0,1,0,1
+TargetGene_14,0,0,0,1,0,1,1,0,0,1

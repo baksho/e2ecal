@@ -1,0 +1,19 @@
+m,comparison,metric,mean_A,mean_B,p_bonf,signif
+10,e2e-val (80) vs CE-ES (80),mse_eta,0.0142,0.021,0.0344,*
+10,e2e-val (80) vs CE-ES (80),ece,0.0587,0.0757,0.5283,n.s.
+10,e2e-val (80) vs CE-ES (80),brier,0.1618,0.1683,0.0398,*
+10,e2e-val (refit 100) vs CE-ES (refit 100),mse_eta,0.0131,0.02,0.0493,*
+10,e2e-val (refit 100) vs CE-ES (refit 100),ece,0.0529,0.0755,0.3276,n.s.
+10,e2e-val (refit 100) vs CE-ES (refit 100),brier,0.1607,0.1674,0.0609,n.s.
+100,e2e-val (80) vs CE-ES (80),mse_eta,0.0169,0.0232,0.0287,*
+100,e2e-val (80) vs CE-ES (80),ece,0.0629,0.0743,1.0,n.s.
+100,e2e-val (80) vs CE-ES (80),brier,0.1646,0.1706,0.0399,*
+100,e2e-val (refit 100) vs CE-ES (refit 100),mse_eta,0.015,0.0214,0.035,*
+100,e2e-val (refit 100) vs CE-ES (refit 100),ece,0.0564,0.072,1.0,n.s.
+100,e2e-val (refit 100) vs CE-ES (refit 100),brier,0.1627,0.1688,0.0485,*
+1000,e2e-val (80) vs CE-ES (80),mse_eta,0.0185,0.025,0.0699,n.s.
+1000,e2e-val (80) vs CE-ES (80),ece,0.0661,0.0794,1.0,n.s.
+1000,e2e-val (80) vs CE-ES (80),brier,0.1663,0.1725,0.1348,n.s.
+1000,e2e-val (refit 100) vs CE-ES (refit 100),mse_eta,0.0172,0.0235,0.1265,n.s.
+1000,e2e-val (refit 100) vs CE-ES (refit 100),ece,0.0629,0.0786,1.0,n.s.
+1000,e2e-val (refit 100) vs CE-ES (refit 100),brier,0.165,0.1711,0.195,n.s.
