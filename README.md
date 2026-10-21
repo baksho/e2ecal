@@ -16,7 +16,7 @@ gene regulatory network (GRN) inference experiments.
 ## Overview
 
 ![Overview of the experimental tracks, training and calibration
-workflow, and evaluation criteria](assets/thesis_overview.png)
+workflow, and evaluation criteria](thesis_overview.png)
 
 The experiments are organized into three tracks:
 
