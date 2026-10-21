@@ -38,9 +38,9 @@ calibration and post-hoc calibration baselines where applicable.
 The end-to-end objective combines a predictive base loss with a
 calibration penalty:
 
-\[ `\mathcal{L}`{=tex}*{`\mathrm{total}`{=tex}} =
+$$ `\mathcal{L}`{=tex}*{`\mathrm{total}`{=tex}} =
 `\mathcal{L}`{=tex}*{`\mathrm{base}`{=tex}} +
-`\lambda`{=tex},`\widehat{\mathrm{CE}}`{=tex}. \]
+`\lambda`{=tex},`\widehat{\mathrm{CE}}`{=tex}. $$
 
 The thesis and implementation define the precise calibration estimator
 and weighting convention used in each experiment. The base loss may be
@@ -75,9 +75,7 @@ the exact protocol and scope of each result.
 
 -   [Browse the repository](https://github.com/baksho/e2ecal)
 
-The overview image is stored at `assets/thesis_overview.png`. Keep this
-relative path (or update the Markdown image link) when adding the README
-to GitHub.
+The overview image is at `thesis_overview.png`.
 
 ## Getting started
 
@@ -88,10 +86,6 @@ instructions:
 git clone https://github.com/baksho/e2ecal.git
 cd e2ecal
 ```
-
-Then follow the installation instructions in the repository's dependency
-files and the setup instructions in the relevant notebook or experiment
-script.
 
 **Reproducibility note:** Exact commands, dependency versions,
 input-data paths, and expected outputs should be taken from the files in
